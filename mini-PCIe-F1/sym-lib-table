@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name mini-PCIe)(type Legacy)(uri /home/mint/dev/kicad-templates/kicad-libraries/mini-PCIe.lib)(options "")(descr ""))
+)
